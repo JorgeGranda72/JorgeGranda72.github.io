@@ -4,7 +4,7 @@ I'm a senior computer science student at John Jay College of Criminal Justice
 I'm also a student at CUNY Tect Prep where I'm learing in-demand technologies
 like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as 
 industry best practices for exploratory data analysis (EDA), feature engineering, 
-data collection and processing, statistical modeling, data visualization, machine 
+data collection and processing, statistical modeling, data visualization and machine 
 learning techniques.
   
 
