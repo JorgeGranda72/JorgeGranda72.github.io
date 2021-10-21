@@ -1,4 +1,4 @@
-## Short bio
+## Bio
 
 I'm a senior computer science student at John Jay College of Criminal Justice
 I'm also a student at CUNY Tect Prep where I'm learing in-demand technologies
