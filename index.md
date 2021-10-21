@@ -8,9 +8,9 @@ data collection and processing, statistical modeling, data visualization and mac
 learning techniques.
   
 
-Link to my [resume](https://docs.google.com/document/d/1D61x2ecshXU5tsKiTLjcZZXF9IKfNtii-fgznKAqUvM/edit?usp=sharing)
+- Link to my [resume](https://docs.google.com/document/d/1D61x2ecshXU5tsKiTLjcZZXF9IKfNtii-fgznKAqUvM/edit?usp=sharing)
 
-Link to my [project](https://github.com/JorgeGranda72/police-brutality-project)
+- Link to my [project](https://github.com/JorgeGranda72/police-brutality-project)
 
 You can use the [editor on GitHub](https://github.com/JorgeGranda72/JorgeGranda72.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
