@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Short bio
+```markdown
+I'm a senior computer science student at John Jay College of Criminal Justice
+I'm also a student at CUNY Tect Prep where I'm learing in-demand technologies
+like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as 
+industry best practices for exploratory data analysis (EDA), feature engineering, 
+data collection and processing, statistical modeling, data visualization, machine 
+learning techniques.
+  
+```
+Link to my [resume](https://docs.google.com/document/d/1D61x2ecshXU5tsKiTLjcZZXF9IKfNtii-fgznKAqUvM/edit?usp=sharing)
 
 You can use the [editor on GitHub](https://github.com/JorgeGranda72/JorgeGranda72.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
